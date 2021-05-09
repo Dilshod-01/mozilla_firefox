@@ -1,0 +1,203 @@
+header{
+}
+.row{
+    width: 101%;
+    display: inline-block;
+}
+.column_1{
+    height: 90px;
+    border-bottom: black 2px solid;
+}
+.mozilla_logo{
+    width: 100px;
+    height: 40px;
+    margin-left: 50%;
+    margin-top: 13%;
+}
+.column_2{
+    height: 90px;
+    border-bottom: black 2px solid;
+}
+.dropdown_links{
+    margin-top: 3.5%;
+}
+.btn-outline-primary{
+    margin-left: 3%;
+}
+.column_3{
+height: 90px;
+border-bottom: black 2px solid;
+}
+.btn_login{
+    margin-top: 7%;
+    margin-left: 50%;
+    width: 150px;
+}
+.body_1page{
+    width: 100%;
+    height: 670px;
+    background-image: url('https://www.ixbt.com/img/n1/news/2020/7/3/xljalkfucibkosgrjtxmzffcers_large.png');
+    background-position: center;
+}
+.page1_text{
+    width: 450px;
+    height: 300px;
+    margin-left: 8%;
+    margin-top: -45%;
+}
+.h1_browser{
+    font-size: 68px;
+    color: white;
+}
+.h1_meet{
+    width: 450px;
+    height: 40px;
+    margin-top: 165px;
+    margin-left: 35%;
+    color: white
+}
+.product_logos{
+    width: 90px;
+    height: 90px;
+    margin-left: 34%;
+}
+
+.browser_logo{
+    width: 60px;
+    height: 60px;
+}
+.product_logos_2{
+    width: 90px;
+    height: 90px;
+    margin-left: 45%;
+    margin-top: -6.7%;
+}
+.product_logos_3{
+    width: 90px;
+    height: 90px;
+    margin-left: 55%;
+    margin-top: -6.7%;
+}
+.browser_logo_lockwise{
+    width: 120px;
+    height: 60px;
+}
+.product_logos_4{
+    width: 90px;
+    height: 90px;
+    margin-left: 65%;
+    margin-top: -6.7%;
+}
+.product_logos_3{
+    width: 90px;
+    height: 90px;
+    margin-left: 55%;
+    margin-top: -6.7%;
+}
+.homepage_2{
+    width: 100%;
+    height: 600px;
+}
+.firefox_browser_menu{
+    margin-left: 50%;
+    margin-top: 10%;
+}
+.homepage_2_part2{
+    width: 40%;
+    height: 400px;
+    margin-top: -35%;
+    margin-left: 7%;
+}
+.png_mozilla{
+    width: 120px;
+    height: 100px;
+}
+.dropdown-toggle{
+    width: 500px;
+}
+.btn-group{
+    margin-top: 5%;
+}
+.dropdown-menu{
+    width: 500px;
+}
+.png_monitor_hack{
+    margin-left: 15%;
+    margin-top: 8%;
+}
+.homepage_3_part2{
+    width: 500px;
+    height: 200px;
+    margin-left: 58%;
+    margin-top: -20%;
+}
+.FF_Monitor_logo{
+    width: 200px;
+    height: 100px;
+}
+.png_lockwise_logo{
+    width: 150px;
+    height: 120px;
+}
+.homepage_4{
+    width: 70%;
+    height: 350px;
+    margin-left: 15%;
+    border-radius: 15px;
+    box-shadow: 0px 20px 30px rgba(0, 0, 0,.5);
+    display: inline-block;
+}
+.img_father{
+    width: 450px;
+    height: 350px;
+}
+.h1_homepage4{
+    margin-left: 55%;
+    margin-top: -30%;
+}
+.png_pocket_logo{
+    width: 120px;
+    height: 70px;
+}
+.homepage_5{
+    width: 100%;
+    height: 450px;
+    background-color: rgb(51, 16, 116);
+}
+.browser_logo_end{
+    width: 70px;
+    height: 70px;
+    margin-left: -5%;
+    margin-top: 25%;
+}
+.h1_endtext{
+    width: 720px;
+    margin-left: 25%;
+    text-align: center;
+    color: white;
+    margin-top: 5%;
+}
+.foot_row{
+    margin-left: 2%;
+    margin-top: 5%;
+}
+.ender_articles{
+    width: 70%;
+    height: 160px;
+    text-align: center;
+}
+.mozilla_logo_infoot{
+    width: 100px;
+    height: 40px;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+.languages{
+    width: 50px;
+    height: 40px;
+    margin-left: 75%;
+    margin-top: -5%;
+}
+.language_press{
+    width: 120px;
+}
